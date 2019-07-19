@@ -27,6 +27,7 @@ copy(data)
 接著可以用python對json文本進行預處理()
 
 整理過後的資料如以下所示
+![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/reviews_df.png)
 
 
 
