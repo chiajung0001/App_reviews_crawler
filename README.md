@@ -17,14 +17,15 @@ var reviews = document.querySelectorAll('div[class="d15Mdf bAhLNe"]')
 ```
 ```
 
-接著輸入將評論資料複製到剪貼簿，接著只需要在任意文字編輯軟體上貼上數據即可
+接著輸入
 ```
 copy(data)
 ```
+將評論資料複製到剪貼簿，接著只需要在任意文字編輯軟體上貼上數據即可
 
 所爬取內容包含用戶名稱、星級和評論
 
-接著可以用python對json文本進行預處理()
+接著可以用python對json文本進行預處理(將josn轉為csv)
 
 整理過後的資料如以下所示
 ![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/reviews_df.png)
