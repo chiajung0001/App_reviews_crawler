@@ -5,6 +5,7 @@ icook_reviews_crawler
 
 
 連結到想要爬取的app點擊所有評論後，直接在google chrome的console輸入以下指令
+![GitHub](https://github.com/chiajung0001/App_reviews_crawler/blob/master/chrome_console.png)
 
 ```
 var reviews = document.querySelectorAll('div[class="d15Mdf bAhLNe"]')
