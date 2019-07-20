@@ -4,7 +4,8 @@ icook_reviews_crawler
 在嘗試爬取google應用商店的評論時發現了一個特別的方法
 
 
-連結到想要爬取的app點擊所有評論後，直接在google chrome的console輸入以下指令
+連結到想要爬取的app點擊所有評論後，直接在google chrome的console輸入以下指令(需要下滑網頁將所以評論導出，不然只能爬取當前頁面評論)
+
 ![GitHub](https://github.com/chiajung0001/App_reviews_crawler/blob/master/chrome_console.png)
 
 ```
@@ -14,8 +15,7 @@ var reviews = document.querySelectorAll('div[class="d15Mdf bAhLNe"]')
   reviews.forEach(v => data.push({body: v.outerHTML}))
 ```
 
-```
-```
+
 
 接著輸入
 ```
