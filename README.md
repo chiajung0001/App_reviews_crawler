@@ -1,6 +1,8 @@
 # App_reviews_crawler
 icook_reviews_crawler
 
+#相關程式碼請見ipynb檔或直接點擊[程式碼](https://github.com/chiajung0001/App_reviews_crawler/blob/master/googleplayreviews_json_to_csv.ipynb)
+
 在嘗試爬取google應用商店的評論時發現了一個特別的方法
 
 
