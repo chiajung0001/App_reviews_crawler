@@ -39,7 +39,9 @@ copy(data)
 
 雖然示五星評論但大部分都是在抱怨訂閱價格
 
-（<br>）
+<br>
+
+<br>
 
 1~2星評論文字雲
 
@@ -47,4 +49,17 @@ copy(data)
 
 負評大部分跟系統更新與註冊問題有關
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+資料來源:https://zzsza.github.io/development/2019/03/12/crawling-in-developer-tools-console/
 
