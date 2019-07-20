@@ -28,16 +28,21 @@ copy(data)
 接著可以用python對json文本進行預處理(將josn轉為csv)
 
 整理過後的資料如以下所示
+
 ![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/reviews_df.png)
 
 
 
 5星評論文字雲
+
 ![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/wordcloud_5.png)
+
 雖然示五星評論但大部分都是在抱怨訂閱價格
 
 1~2星評論文字雲
+
 ![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/wordcloud_2.png)
-大部分跟
+
+負評大部分跟系統更新與註冊問題有關
 
 
