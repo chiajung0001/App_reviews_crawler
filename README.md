@@ -39,6 +39,8 @@ copy(data)
 
 雖然示五星評論但大部分都是在抱怨訂閱價格
 
+
+
 1~2星評論文字雲
 
 ![Github](https://github.com/chiajung0001/App_reviews_crawler/blob/master/wordcloud_2.png)
